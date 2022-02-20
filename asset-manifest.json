@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sample-ghp/static/css/main.073c9b0a.css",
+    "main.js": "/sample-ghp/static/js/main.099f162b.js",
+    "static/js/973.a91ea1c5.chunk.js": "/sample-ghp/static/js/973.a91ea1c5.chunk.js",
+    "static/media/PS-LOGO.png": "/sample-ghp/static/media/PS-LOGO.e8367c215e51b9c87e54.png",
+    "index.html": "/sample-ghp/index.html",
+    "main.073c9b0a.css.map": "/sample-ghp/static/css/main.073c9b0a.css.map",
+    "main.099f162b.js.map": "/sample-ghp/static/js/main.099f162b.js.map",
+    "973.a91ea1c5.chunk.js.map": "/sample-ghp/static/js/973.a91ea1c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.099f162b.js"
+  ]
+}
