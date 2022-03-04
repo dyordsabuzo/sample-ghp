@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "firebase-tools": "^10.2.1",
     "gh-pages": "^3.2.3",
+    "netlify-cli": "^9.8.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -21,7 +22,8 @@
     "ghp-deploy": "WEBHOST=ghp node ./scripts/setHomepage.js; pnpm build; gh-pages -d build",
     "firebase-login": "firebase login",
     "firebase-init": "firebase init",
-    "firebase-deploy": "WEBHOST=firebase node ./scripts/setHomepage.js; pnpm build; firebase deploy"
+    "firebase-deploy": "WEBHOST=firebase node ./scripts/setHomepage.js; pnpm build; firebase deploy",
+    "netlify-deploy": "node ./scripts/setHomepage.js; pnpm build; netlify deploy"
   },
   "eslintConfig": {
     "extends": [
