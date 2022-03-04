@@ -1,0 +1,6 @@
+project:
+  name: samplec
+environments:
+  local-docker:
+    target: docker
+services: {}
